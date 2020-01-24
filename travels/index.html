@@ -53,22 +53,6 @@
 				attribution: '&copy; <a target="_blank" rel="noopener noreferrer" href="https://www.openstreetmap.org/">OpenStreetMap</a>,' + ' &copy; <a target="_blank" rel="noopener noreferrer" href="https://www.mapbox.com/">Mapbox</a>',
 				id: 'mapbox/light-v10'
 			}).addTo(myMap);
-
-
-				var newIcon = L.Icon.extend({
-		options: {
-			shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png',
-			iconSize:     [25, 41],
-			shadowSize:   [41, 41],
-			iconAnchor:   [12, 41],
-			shadowAnchor: [41, 41],
-			popupAnchor:  [1, -34]
-		}
-	});
-
-	var redIcon = new newIcon({iconUrl: 'https://cdn.rawgit.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-green.png'});
-			
-	L.marker([51.5, -0.09], {icon: redIcon}).addTo(map);
 			
 			// Gainesville
 			L.marker([29.68, -82.40]).addTo(myMap)
