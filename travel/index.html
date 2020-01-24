@@ -46,7 +46,7 @@
 			maxBoundsViscosity: 1.0
 			}).setView([0,0], 2); */
 			
-			var map = L.map('map', {
+			var myMap = L.map('map', {
 				center: [0, 0],
 				zoom: 2
 			});
@@ -61,26 +61,26 @@
 				],
 				attribution: '&copy; <a target="_blank" rel="noopener noreferrer" href="https://www.openstreetmap.org/">OpenStreetMap</a>,' + ' &copy; <a target="_blank" rel="noopener noreferrer" href="https://www.mapbox.com/">Mapbox</a>',
 				id: 'mapbox/light-v10'
-			}).addTo(mymap);
+			}).addTo(myMap);
 			
 			// Gainesville
-			L.marker([29.68, -82.40]).addTo(mymap)
+			L.marker([29.68, -82.40]).addTo(myMap)
 				.bindPopup("<b>Gainesville</b><br />I grew up here.");
 			
 			// Singapore
-			L.marker([1.28, 103.84]).addTo(mymap)
+			L.marker([1.28, 103.84]).addTo(myMap)
 				.bindPopup("<b>Singapore</b><br />This is where I live.");
 			
 			// Cambridge
-			L.marker([52.21, 0.11]).addTo(mymap)
+			L.marker([52.21, 0.11]).addTo(myMap)
 				.bindPopup("<b>Cambridge</b><br />I completed my undergraduate in economics at Trinity College, Cambridge.");
 			
 			// New York
-			L.marker([40.78, -73.98]).addTo(mymap)
+			L.marker([40.78, -73.98]).addTo(myMap)
 				.bindPopup("<b>New York</b><br />My first job out of university was with GIC's Infrastructure team in New York.");
 			
 			// Nanjing
-			L.marker([32.04, 118.78]).addTo(mymap)
+			L.marker([32.04, 118.78]).addTo(myMap)
 				.bindPopup("<b>Nanjing</b><br />My family is originally from Nanjing.");
 		</script>
 
