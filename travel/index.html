@@ -33,19 +33,12 @@
 			<li><a href="/blog">Blog</a></li>
 		</ul>
 		</nav>
-	
+		
+		<table>
+		<tr><td style="text-align: center; border: none">
+		
 		<div id="map" style="width: 1000px; height: 618px;"></div>
 		<script>
-			/*
-			var mymap = L.map('mapid', {
-			zoomSnap: 0.25,
-			center: bounds.getCenter(),
-			zoom: 5,
-			layers: [osm],
-			maxBounds: bounds,
-			maxBoundsViscosity: 1.0
-			}).setView([0,0], 2); */
-			
 			var myMap = L.map('map', {
 				center: [0, 0],
 				zoom: 2,
@@ -85,7 +78,10 @@
 			L.marker([32.04, 118.78]).addTo(myMap)
 				.bindPopup("<b>Nanjing</b><br />My family is originally from Nanjing.");
 		</script>
-
+		
+		</td></tr>
+		</table>
+	
 		<footer>
 		<ul>
 	        	<li><a href="mailto:robinzxu@gmail.com">robinzxu@gmail.com</a></li>
