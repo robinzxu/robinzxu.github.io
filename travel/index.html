@@ -49,7 +49,7 @@
 			var myMap = L.map('map', {
 				center: [0, 0],
 				zoom: 2,
-				maxBounds: L.latLng(40.774, -74.125),
+				maxBounds: new L.LatLngBounds(new L.LatLng(-90, 180), new L.LatLng(90, 180)),
 				maxBoundsViscosity: 1.0
 			});
 
