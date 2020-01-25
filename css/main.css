@@ -17,12 +17,12 @@ nav ul li, footer ul li { display: inline; margin-right: 20px; }
     color:#000000;
 }
 
-footer { border-top: 1px solid #d5d5d5; font-size: 0.8em; float: none;}
+footer { border-top: 1px solid #d5d5d5; font-size: 0.8em;}
 
 /* Home */
 .left {
  float: left;
- padding: 0 60px 60px 0;
+ padding: 20px 60px 60px 0;
 }
 
 /* Blog */
