@@ -1,6 +1,6 @@
 body { margin: 20px auto; width: 90%; max-width:1000px}
 
-a { text-decoration: none; color: #808080; }
+a { text-decoration: none; color: #a3c1ad; }
 a:hover { text-decoration: underline; }
 
 p, ul { font-size: 1em; line-height: 1.4em; color: #333; }
@@ -15,6 +15,9 @@ nav ul, footer ul { font-size: 1.0em; font-family: 'Helvetica', 'Arial', 'Sans-S
 nav ul li, footer ul li { display: inline; margin-right: 20px; }
 #home a {
     color:#000000;
+}
+#link a {
+    color:#808080;
 }
 
 footer { border-top: 1px solid #d3d3d3; font-size: 0.8em;}
