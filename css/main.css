@@ -37,10 +37,10 @@ footer { border-top: 1px solid #d5d5d5; font-size: 0.8em;}
 .travels {
     width: 90vw;
     max-width: 1000px;
-    min-width: 200px;
+    min-width: 150px;
     height: 55vh;
     max-height: 618px;
-    min-height: 100px;
+    min-height: 75px;
  } 
 
 /* Blog */
