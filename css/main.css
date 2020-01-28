@@ -20,24 +20,17 @@ nav ul li, footer ul li { display: inline; margin-right: 20px; }
 footer { border-top: 1px solid #d5d5d5; font-size: 0.8em;}
 
 /* Home */
-.left {
-float: left;
-padding: 0px 60px 15px 0;
-}
-
-/* Styling for image div with caption */
- .main_img {
-   float:left;
-   width:300px;
-   padding: 0px 60px 15px 0px;
+.main_img {
+    float:left;
+    width:300px;
+    padding: 0px 60px 15px 0px;
  } 
- 
-/* Styling for caption within image div */
- .main_img p {
-   margin-top:0px;
-   margin-bottom:0px;  
-   font-size:0.8em;
-   font-style:italic;
+
+.main_img p {
+    margin-top:0px;
+    margin-bottom:0px;  
+    font-size:0.8em;
+    font-style:italic;
  } 
 
 /* Blog */
