@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-156800948-1"></script>
+		<script>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  gtag('js', new Date());
+		  gtag('config', 'UA-156800948-1');
+		</script>
+
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+    		<meta http-equiv="x-ua-compatible" content="ie=edge">
+		<link rel="canonical" href="robinzxu.github.io/travel">
+
+		<title>徐乐彬 Robin Xu | Travels</title>	
+		<link rel="stylesheet" type="text/css" href="/css/main.css">
+		
+		<link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css" integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ==" crossorigin=""/>
+    		<script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js" integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew==" crossorigin=""></script>
+	</head>
+	
+	<body>
+		<nav>
+		<ul>
+			<li id="home"><a href="/">徐乐彬 Robin Xu</a></li>
+			<li><a href="/cv">CV</a></li>
+			<li><a href="/travels">Travels</a></li>
+			<li><a href="/blog">Blog</a></li>
+		</ul>
+		</nav>
+		
+		<h2>Oh, the Places You'll Go!</h2>
+		
+		<div id="map" style="width:1000px;height:618px;"></div>
+		<script>
+			var myMap = L.map('map', {
+				center: [0, 0],
+				zoom: 2,
+				maxBounds: new L.LatLngBounds(new L.LatLng(85,-230), new L.LatLng(-85,230)),
+				maxBoundsViscosity: 1.0
+			});
+
+			L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=pk.eyJ1Ijoicm9iaW56eHUiLCJhIjoiY2s1cW03a2hpMDN4MjNtbjB3NWN6dnVyZiJ9.Dpq0JmqedbosEQM1xr7bzg', {
+				maxZoom: 18,
+				minZoom: 2,
+				noWrap: true,
+				bounds: [
+					[85, -180],
+					[-85, 180]
+				],
+				attribution: '&copy; <a target="_blank" rel="noopener noreferrer" href="https://www.openstreetmap.org/">OpenStreetMap</a>,' + ' &copy; <a target="_blank" rel="noopener noreferrer" href="https://www.mapbox.com/">Mapbox</a>',
+				id: 'mapbox/light-v10'
+			}).addTo(myMap);
+			
+			// Gainesville
+			L.marker([29.68, -82.40]).addTo(myMap)
+				.bindPopup("<b>Gainesville</b><br />I grew up here.");
+			
+			// Singapore
+			L.marker([1.28, 103.84]).addTo(myMap)
+				.bindPopup("<b>Singapore</b><br />I met Keisha here");
+			
+			// Cambridge
+			L.marker([52.21, 0.11]).addTo(myMap)
+				.bindPopup("<b>Cambridge</b><br />I completed my undergraduate in economics at Trinity College, Cambridge.");
+			
+			// London
+			L.marker([51.50, -0.12]).addTo(myMap)
+				.bindPopup("<b>London</b><br />Keisha studied in LSE, went to a lot of concerts and artsy things here.");
+			
+			// Paris
+			L.marker([48.86, 2.35]).addTo(myMap)
+				.bindPopup("<b>Paris</b><br />Keisha studied in HEC for summer school, ate a lot of good food here.");
+			
+			// Kew Gardens
+			L.marker([51.46, -0.28]).addTo(myMap)
+				.bindPopup("<b>Kew Gardens</b><br />This is Keisha's favourite place in London.");
+			
+			// Manapouri
+			L.marker([-45.56, 167.63]).addTo(myMap)
+				.bindPopup("<b>Manapouri</b><br />Keisha made friends here. They were very soft and smiley.");
+		
+			// New York
+			L.marker([40.78, -73.98]).addTo(myMap)
+				.bindPopup("<b>New York</b><br />My first job out of university was with GIC's Infrastructure team in New York.");
+			
+			// Nanjing
+			L.marker([32.04, 118.78]).addTo(myMap)
+				.bindPopup("<b>Nanjing</b><br />My family is originally from Nanjing.");
+		</script>
+	
+		<p>Here are some of the places I've visited over the years. Click on the pins for more detail!</p>
+		
+		<footer>
+		<ul>
+	        	<li><a href="mailto:robinzxu@gmail.com">robinzxu@gmail.com</a></li>
+	        	<li><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/robin-zhang-xu-83b8aa62/">LinkedIn</a></li>
+		</ul>
+		</footer>
+	</body>
+</html>
