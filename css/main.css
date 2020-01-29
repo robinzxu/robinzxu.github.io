@@ -45,6 +45,7 @@ footer { border-top: 1px solid #d3d3d3; font-size: 0.8em; }
 /* Mobile */
 @media screen and (max-width: 600px) {
     .main_img {
+        float: none;
         width: 300px;
         margin: 0 auto;
         padding: 0px 0px 15px 0px;
