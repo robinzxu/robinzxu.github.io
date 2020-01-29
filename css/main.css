@@ -23,7 +23,7 @@ nav ul li, footer ul li { display: inline; margin-right: 20px; }
 }
 
 .last_link {
-    color: red;
+    color: #000000;
     margin-right: 0;
 }
 
