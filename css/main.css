@@ -19,8 +19,13 @@ nav ul li:last-child { margin-right: 0px; color: red; }
     color: #000000;
 }
 
-#link a {
+.link a {
     color: #808080;
+}
+
+.lastLink a {
+    color: red;
+    margin-right: 0px;
 }
 
 footer { border-top: 1px solid #d3d3d3; font-size: 0.8em; }
