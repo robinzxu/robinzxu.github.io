@@ -27,14 +27,12 @@ footer { border-top: 1px solid #d3d3d3; font-size: 0.8em; }
 /* Home */
 .main_img {
     float: left;
-    max-width: 300px;
-    width: auto;
+    width: 300px;
     padding: 0px 60px 15px 0px;
  }
 
 #photo {
-    max-height: 420px;
-    height: auto;
+    height: 420px;
 }
 
 .main_img p {
@@ -47,9 +45,7 @@ footer { border-top: 1px solid #d3d3d3; font-size: 0.8em; }
 /* Mobile */
 @media screen and (max-width: 600px) {
     .main_img {
-        clear: both;
-        max-width: 300px;
-        width: auto;
+        width: 300px;
         margin: 0 auto;
         padding: 0px 0px 15px 0px;
     }
