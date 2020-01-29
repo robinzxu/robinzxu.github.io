@@ -22,8 +22,8 @@ nav ul li, footer ul li { display: inline; margin-right: 20px; }
     color: #808080;
 }
 
-.last_link a {
-    color: #808080;
+.last_link {
+    color: red;
     margin-right: 0;
 }
 
