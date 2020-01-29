@@ -1,4 +1,4 @@
-body { margin: 20px auto; width: 90%; max-width:1000px 
+body { margin: 20px auto; width: 90%; max-width:1000px }
 
 a { text-decoration: none; color: #a3c1ad; }
 a:hover { text-decoration: underline; }
@@ -23,7 +23,7 @@ nav ul li:last-of-type { margin-right: 0px; }
     color: #808080;
 }
 
-footer { border-top: 1px solid #d3d3d3; font-size: 0.8em; 
+footer { border-top: 1px solid #d3d3d3; font-size: 0.8em; }
 
 /* Home */
 .main_img {
