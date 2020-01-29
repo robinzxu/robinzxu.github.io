@@ -50,6 +50,10 @@ footer { border-top: 1px solid #d3d3d3; font-size: 0.8em; }
         margin: 0 auto;
         padding: 0x 0x 0x 0x;
     }
+    
+    .mobile_test {
+        clear: both;
+    }
 }
 
 /* Travels */
