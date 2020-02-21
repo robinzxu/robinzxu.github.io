@@ -12,8 +12,8 @@ It\'s impossible to know how many more ([or less!](https://medium.com/@indica/ho
 
 I won\'t speculate here as to how we should measure the pecuniary value of a human life; different countries and organisations already have [many](https://onlinelibrary.wiley.com/doi/pdf/10.1002/psb.1562){:target="_blank" rel="noopener"} [ways](https://www.bloomberg.com/graphics/2017-value-of-life/){:target="_blank" rel="noopener"} of doing it. But if we divide $1.1tn by the EPA\'s estimate of roughly $10mm (which is specific to the US and on the higher end anyway), that would be equal to 110,000 lives. Let\'s say that only 20% of the economic impact could have been avoided through less strident controls. That would still imply an economic cost roughly equal to 22,000 lives. A relaxation of controls would have to kill ten times the number of people who have already died before the human cost outweighs the economic gain.
 
+Of course, the maths above is almost certainly wrong and the full impact of COVID-19, even with the measures in place, is yet to be felt. 
 A more measured response befitting a disease which only kills 
 
 Just as 
-
 
