@@ -10,10 +10,15 @@ Such action may seem sensible in light of the fact that COVID-19 has already cla
 
 It\'s impossible to know how many more ([or less!](https://medium.com/@indica/how-japan-made-covid-19-worse-c97180df9c95){:target="_blank" rel="noopener"}) infections and deaths the disease may have caused were the response not as forceful, or what the economic impact would have been in that scenario. However, it\'s almost certainly the case that [bumbling government action](https://edition.cnn.com/asia/live-news/coronavirus-outbreak-01-28-20-intl-hnk/h_de6f7529da8c257da95ca55439097408){:target="_blank" rel="noopener"} has stoked public fear and hysteria, contributing to the economic disruption. 
 
-I won\'t speculate here as to how we should measure the pecuniary value of a human life; different countries and organisations already have [many](https://onlinelibrary.wiley.com/doi/pdf/10.1002/psb.1562){:target="_blank" rel="noopener"} [ways](https://www.bloomberg.com/graphics/2017-value-of-life/){:target="_blank" rel="noopener"} of doing it. But if I take the EPA\'s estimate of roughly $10mm (which is on the higher end of estimates) and divide it by $1.1tn, that would be equal to 110,000 lives. Let\'s say that only 20% of the economic impact could have been avoided through less strident measures. That would still imply an economic cost roughly equal to 22,000 lives.
+I won\'t speculate here as to how we should measure the pecuniary value of a human life; different countries and organisations already have [many](https://onlinelibrary.wiley.com/doi/pdf/10.1002/psb.1562){:target="_blank" rel="noopener"} [ways](https://www.bloomberg.com/graphics/2017-value-of-life/){:target="_blank" rel="noopener"} of doing it. But if I divide $1.1tn by the EPA\'s estimate of roughly $10mm (which is specific to the US and on the higher end anyway), that would be equal to 110,000 lives. Let\'s say that only 20% of the economic impact could have been avoided through less strident measures. That would still imply an economic cost roughly equal to 22,000 lives.
 
 A more measured response befitting a disease which only kills 
 
 Just as 
+
+
+
+
+
 
 
