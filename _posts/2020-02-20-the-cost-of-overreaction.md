@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ignorance is (Maybe) Bliss"
+title: "The Cost of Overreaction"
 date: 2020-02-20
 ---
 
