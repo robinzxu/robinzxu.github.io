@@ -68,7 +68,7 @@ footer { border-top: 1px solid #d3d3d3; font-size: 0.8em; }
  } 
 
 /* Blog */
-ol.posts { margin: 20px auto 30px; font-size: 1em; }
+ol.posts { margin: 20px auto ; font-size: 1em; }
 /* ul.posts li { list-style: square; } */
 
 /* CV */
