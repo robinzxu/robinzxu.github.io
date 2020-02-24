@@ -10,7 +10,7 @@ body {
 a { text-decoration: none; color: #a3c1ad; }
 a:hover { text-decoration: underline; }
 
-p, ul, ol { color: #333; } /* font-size: 1em; */
+p, ul, ol { font-size: 1em; color: #333; }
 
 h1, h2, h3, h4 { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; }
 h1 { font-size: 2.0em;  }
