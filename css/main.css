@@ -75,7 +75,7 @@ footer { border-top: 1px solid #d3d3d3; font-size: 0.8em; }
  } 
 
 /* Blog */
-ol.posts { margin: 20px auto; font-size: 1.125em; line-height: 1.618em; font-style: italic; }
+ol.posts { margin: 20px auto; font-size: 1em; line-height: 1.618em; font-style: italic; }
 /* ul.posts li { list-style: square; } */
 
 /* CV */
