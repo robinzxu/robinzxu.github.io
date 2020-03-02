@@ -4,7 +4,7 @@ title: "[Theatre] The Son"
 date: 2020-03-01
 ---
 
-Last weekend, Keisha took me to see the opening night performance of Florian Zeller\'s *The Son*, performed by local theatre company Pangdemonium. Despite the threat of COVID-19 in the background and increased security measures at the theatre (everyone who entered was ID'd and had their name recorded), the crowd was generally in good spirits and the show opened to a full house.
+Last weekend, Keisha took me to see the opening night performance of Florian Zeller\'s *The Son*, performed by local theatre company Pangdemonium. Despite the threat of COVID-19 persisting in the background and increased security measures at the theatre (everyone who entered was ID'd and had their name recorded), the crowd was generally in good spirits and the show opened to a full house.
 
 *The Son* begins by introducing us to the teenage Nicolas, alone in a dark room scrawling an illegible script on the wall.
 
