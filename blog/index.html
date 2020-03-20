@@ -5,8 +5,8 @@ title: Blog
 
 <h2>Thoughts &amp; Observations</h2>
 
-<ol reversed class="posts">
+<ul class="posts"> /* <ol reversed class="posts"> */
 	{% for post in site.posts %}
 		<li><span>{{ post.date | date: "%-d %B %Y" }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
 	{% endfor %}
-</ol>
+</ul>
