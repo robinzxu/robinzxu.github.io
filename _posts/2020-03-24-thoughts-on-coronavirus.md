@@ -8,16 +8,25 @@ It\'s been nearly four months now since COVID-19 first appeared in Wuhan. At the
 
 1. **We should've seen this coming**  
 Coronavirus spread in 
+
 2. **The yen may no longer be the safe haven it once was**
+
 3. **US fracking companies will have a hard time starting up again**  
 Might still be economic in the long-run, but people will be unwilling to lend givne the risk of Saudi repeating this
+
 4. **This could be the US' "Suez Moment"**  
 Eastern countries have almost universally managed the crisis better
+
 5. **The right time to react is when no one yet thinks it's the right time to react**  
 Leaders don't want to react until they have to. However, the right time to act is probably when the probably seems small. If you are successful, people will think you have overreacted
-6. **Zhao Lijian could end up being the most influential person you've never heard of**
+
+6. **Zhao Lijian might end up being the most influential person you've never heard of**
+
 7. **US governmental capacity is shockingly low**
+
 8. **This recovery will take a while**  
 A lack of coordination domestically (US) and internationally makes it hard to see an end for this crisis. U shaped recovery rather than a V. Maybe even W shaped if we get another wave
+
 9. **Reusable masks are desperately needed**
+
 10. **The trade war is probably going to get a lot worse**
