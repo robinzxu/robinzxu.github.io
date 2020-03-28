@@ -9,8 +9,10 @@ It\'s been nearly four months now since COVID-19 first appeared in Wuhan. At the
 1. **We should've seen this coming**  
 Governments and individuals were largely oblivious to the dangers of COVID-19 long after the situation had proven itself to be severe in China. Wuhan was placed under effective quarantine on 23 January, followed by 18 other Chinese cities by 25 January. Despite this clearly extreme response which should\'ve signalled the severity of the situation, overseas stock prices continued to climb upwards (the S&P 500 reached an all-time high on 19 February) and foreign governments did little to prepare for the inevitable (as evidenced by the complete debacle of a response once COVID-19 reached the US and Europe). It\'s all incredibly absurd in retrospect.
 
-2. **The yen isn't the safe haven it once was**
-The Japanese yen has historically served as a 
+I've heard some people say that 
+
+2. **The concept of "Fed Ammunition" might revolve more around the psychology of future cuts rather than the interest rate itself**
+
 
 3. **US fracking companies will have a hard time starting up again**  
 Might still be economic in the long-run, but people will be unwilling to lend givne the risk of Saudi repeating this
@@ -23,7 +25,7 @@ Leaders don't want to react until they have to. However, the right time to act i
 
 6. **Zhao Lijian might end up being the most influential person you've never heard of**
 
-7. **US governmental capacity is shockingly low**
+7. **Adam Neumann and Masayoshi Son will be remembered as the faces of price inflation over the last decade**
 
 8. **This recovery will take a while**  
 A lack of coordination domestically (US) and internationally makes it hard to see an end for this crisis. U shaped recovery rather than a V. Maybe even W shaped if we get another wave
