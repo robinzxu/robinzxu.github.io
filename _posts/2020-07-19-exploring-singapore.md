@@ -12,3 +12,4 @@ As with most people, Keisha and I have been stuck in Singapore for the last six 
 4. **16 August 2020 - Upper Thomson**
 5. **21 August 2020 - Universal Studios Singapore**
 6. **23 August 2020 - Pasir Ris**
+7. **12 October 2020 - Fort Siloso**
