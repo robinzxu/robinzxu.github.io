@@ -11,3 +11,8 @@ As noted on the front page of this site, learning Chinese has been a major goal 
 [Pleco](https://www.pleco.com/){:target="_blank" rel="noopener"} 
 [Anki](https://apps.ankiweb.net/){:target="_blank" rel="noopener"} 
 [Chinese Text Analyser](https://www.chinesetextanalyser.com/){:target="_blank" rel="noopener"} 
+
+https://en.wikipedia.org/wiki/Lion-Eating_Poet_in_the_Stone_Den
+https://chinese.stackexchange.com/questions/40574/why-does-mandarin-chinese-have-a-smaller-inventory-of-unique-syllables
+https://warwick.ac.uk/fac/arts/languagecentre/academic/chinese/whystudychinese/wnah
+https://en.wikipedia.org/wiki/Chinese_grammar
