@@ -84,5 +84,5 @@ ul.posts li { list-style: square; }
 .cv h2 { font-size: 1.5em; }
 .cv address, .cv .download { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; }
 .cv address, .cv p { font-size: 1em; }
-.cv .download { float: right; font-size: .83em; text-transform: uppercase; }
+.cv .download { float: right; font-size: .83em; }
 
