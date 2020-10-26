@@ -13,3 +13,4 @@ As with most people, Keisha and I have been stuck in Singapore for the last six 
 5. **21 August 2020 - Universal Studios Singapore**
 6. **23 August 2020 - Pasir Ris**
 7. **12 October 2020 - Fort Siloso**
+8. **25 October 2020 - Rail Corridor (Central)**
